@@ -1,3 +1,3 @@
 # hello-world
 
-hey the people of the internet
+hey people of the internet
